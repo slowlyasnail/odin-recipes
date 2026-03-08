@@ -1,0 +1,1 @@
+This current project is learning how html and git works
